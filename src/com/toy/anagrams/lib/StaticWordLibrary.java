@@ -42,7 +42,10 @@ final class StaticWordLibrary extends WordLibrary {
         "code",
         "github",
         "time",
-        "point"
+        "point",
+        "rat",
+        "netbeans"
+            
         
 //        "abstraction",
 //        "ambiguous",
@@ -98,7 +101,9 @@ final class StaticWordLibrary extends WordLibrary {
         "ocde",
         "hitgub",
         "miet",
-        "npito"
+        "npito",
+        "atr",
+        "nebseant"
 //        "batsartcoin",
 //        "maibuguos",
 //        "ratimhteci",
